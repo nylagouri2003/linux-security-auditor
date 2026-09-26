@@ -298,15 +298,18 @@ The generated security report is created when the auditor is executed.
 
 ## Screenshots
 
-Add screenshots showing the auditor running in the terminal and an example generated security report.
+### Main Audit Output
 
-Example:
+![Linux Security Auditor Output 1](screenshots/auditor-output-1.png)
 
-```markdown
-![Linux Security Auditor Output](screenshots/auditor-output.png)
+![Linux Security Auditor Output 2](screenshots/auditor-output-2.png)
 
-![Security Audit Report](screenshots/security-report.png)
-```
+### Generated Security Report
+
+![Security Report 1](screenshots/security-report-1.png)
+
+![Security Report 2](screenshots/security-report-2.png)
+
 
 ## Limitations
 
